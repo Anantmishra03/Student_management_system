@@ -41,7 +41,7 @@ IDE: Eclipse
 ⚙️ Setup & Installation
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Anantmishra03/Student_management_system
 Import into Eclipse:
 
 Open Eclipse → File → Import → Existing Projects into Workspace
